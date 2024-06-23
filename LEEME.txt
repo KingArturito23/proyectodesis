@@ -1,0 +1,10 @@
+la base de datos es de MySql la cual en mi caso utilice xampp para realizar todas las pruebas y ver que se este guardando los datos solicitados.
+
+Pasos para la instalacion del proyecto.
+
+Primero tener instalado xampp y colocar la carpeta del proyecto en la siguiente ruta C:\xampp\htdocs\proyecto
+Segundo cargar el proyecto en un enterno de programacion en mi caso visual code o puede utilizar uno similar.
+Tercero cargar la base de datos proyecto.sql en xampp en este documento hay algunas regiones, comunas y canditos de ejemplo, todo lo demas lo puede ir agregando a medida que va utilizando el formulario.
+Cuarto hacer las respectivas pruebas como ingresar los datos solicitados en el siguiente link http://localhost/proyecto/nav/formulario.php y ver como se almacenan en la base de datos.
+
+Version de PHP Version 8.2.12
